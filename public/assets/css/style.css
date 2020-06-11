@@ -1,0 +1,10 @@
+footer {
+    background-color: cadetblue;
+    color: red;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    font-size: 2rem;
+    bottom: 0;
+    margin-bottom: 0;
+}
